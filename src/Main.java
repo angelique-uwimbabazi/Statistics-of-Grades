@@ -57,7 +57,7 @@ public class Main {
 
         // Print the bar graph
         System.out.println("\nGraph:\n");
-
+        // Determine the maximum value in stats array for the graph scale
         // Determine the maximum value in stats array for the graph scale
         int maxCount = 0;
         for (int count : stats) {
